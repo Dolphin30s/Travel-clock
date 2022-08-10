@@ -1,0 +1,35 @@
+.panel-heading {
+  display: flex; justify-content: space-between; align-items: center;
+  }
+
+  .panel-body {
+  display: flex; 
+  justify-content: space-between;
+  }
+
+
+  .panel-body > .react-clock {
+  order: 1;
+  }
+
+  .panel-body > ul {
+  order: -1;
+  }
+
+  .flag-box {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+
+  width: 450px;
+  }
+
+  .flag-box > div {
+  margin-left: 30px;
+  }
+  lag-box > div {
+  margin-left: 30px;
+  }
+  lag-box > div {
+  margin-left: 30px;
+  }

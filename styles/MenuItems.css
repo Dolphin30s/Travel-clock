@@ -1,0 +1,10 @@
+ul {
+  display: flex; justify-content: space-between;
+  max-width: 400px;
+  min-width: 300px;
+}
+
+li {
+  list-style: none;
+}
+

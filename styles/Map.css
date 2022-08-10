@@ -1,0 +1,17 @@
+.map {
+  width: 95%;
+  height: 800px;
+  /* padding: 30px; */
+  /* margin: 0 auto; */
+  /* background-color: rgb(13, 48, 59); */
+  /* border: 2px solid rgb(137, 255, 245); */
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.mapContainer {
+  height: calc(100% - 80px);
+  width: 100%;
+}

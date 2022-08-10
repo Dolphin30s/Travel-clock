@@ -1,0 +1,9 @@
+.currency-controls {
+  display: flex;
+  justify-content: flex-start;
+}
+
+label {
+  margin-right: 10px;
+  margin-left: 30px;
+}

@@ -1,0 +1,25 @@
+
+
+.currency-controls div {
+  display: flex;
+}
+
+.currency-controls div label {
+  align-self: center
+}
+
+.buttons button {
+  margin-left: 10px;
+}
+
+.currency-controls div {
+  display: flex;
+}
+
+.currency-controls div label {
+  align-self: center
+}
+
+.buttons button {
+  margin-left: 10px;
+}
